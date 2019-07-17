@@ -1,0 +1,182 @@
+/* layout 01 start*/
+.container{
+}
+.header {
+	font-family:normal;
+	text-align: right;
+	font-size: 20px;
+	border: 4px solid blue;
+	min-height: 60px; 
+}
+.wrapper {
+	font-weight: capitalize;
+	border: 4px solid black;
+	overflow: hidden;
+	margin-top: 6px;
+
+}
+
+.contact {
+	border: 3px solid blue;
+	min-height: 400px;
+	width: 68.5%;
+	float: left;
+}
+
+.blog {
+	border: 3px solid blue;
+	min-height: 400px;
+	width: 28.5%;
+	float: right;
+}
+.footer{
+	background-color: blue;
+	border: 4px solid blue;
+	min-height: 60px;
+	margin-top: 6px;
+}
+/* layout 01 end*/
+
+/* layout 02 start*/
+div, .container{
+
+
+}
+.header{
+	border: 3px solid red;
+	min-height: 55px;
+}
+.h1{
+	text-align: center;
+}
+.header1{
+	border: 3px solid blue;
+	min-height:50px;
+	margin-top: 6px;
+}
+.wrapper0{
+	/*border:3px solid black;*/
+	overflow: hidden;
+	margin-top: 6px;
+	min-height: 400px;
+}
+.section{
+	border: 3px solid blue;
+	min-height: 195px;
+	width:69.2%;
+	float: left;
+}
+.aside{
+	border: 3px solid blue;
+	min-height: 400px;
+	width:28.6%;
+	float: right;
+}
+.article{
+	border: 3px solid gray;
+	min-height: 195px;
+	width:69.2%;
+	margin-top: 4px;
+	float: left;
+	
+}
+.footer{
+	margin-top: 6px;
+	border: 3px solid black;
+	min-height: 55px;
+}
+/* layout 02 end*/
+/* layout 03 start*/
+.container {
+	text-align: center;
+}
+
+.wrapper1 {
+	border:3px solid green;
+	overflow: hidden;
+}
+
+.headerlogo {
+	border-right: 2px solid blue;
+	min-height: 10px;
+	width: 30%;
+	float: left;
+
+}
+
+.headerbanner {
+	
+	/*border:2px solid black;*/
+	min-height: 30px;
+	width: 69%;
+	float: right;
+
+}
+.header {
+	border:3px solid blue;	
+}
+
+.wrapper2 {
+	border: 3px solid black;
+	min-height: 400px;
+}
+
+.leftblock {
+	border-right: 2px solid red;
+	min-height:400px;
+	width: 20%;
+	float: left;
+}
+
+.rightblock {
+	border-left: 2px solid red;
+	min-height:400px;
+	width: 20%;
+	float: right;
+}
+
+.wrapper3 {
+	overflow: hidden;
+}
+
+.centerblock {
+	overflow: hidden;
+	border-bottom: 2px solid blue;
+	min-height: 10px;
+	width: 100%;
+}
+.centerleftblock{
+	border-right: 2px solid blue;
+	float: left;
+	min-height: 230px;
+	width: 49.5%;
+}
+.centerright {
+	
+	float: right;
+	min-height: 230px;
+	width: 49.4%;
+}
+
+.module {
+	border-top: 2px solid blue;
+	min-height: 10px;
+	width: 100%;
+	clear: both;
+}
+
+.footer {
+	text-align: center;
+	border:3px solid blue;
+	margin-top: 4px;
+}
+/* layout 03 end*/
+
+
+
+
+
+
+
+
+
